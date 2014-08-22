@@ -1,4 +1,4 @@
-TEAM ENGINE BETA RELEASE
+TEAM ENGINE Releases
 ===========================
 
-This repository tracks the OGC TEAM ENGINE beta changes
+This repository tracks the releases at the OGC TEAM ENGINE production and beta website
