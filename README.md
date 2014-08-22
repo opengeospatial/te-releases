@@ -1,4 +1,4 @@
-te-beta
-=======
+TEAM ENGINE BETA RELEASE
+===========================
 
-TEAM ENGINE BETA
+This repository tracks the OGC TEAM ENGINE beta changes
