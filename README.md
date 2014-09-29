@@ -6,12 +6,12 @@ This repository tracks the releases at the OGC TEAM Engine [production](http://c
 More Information
 =================
 
-TEAM Engine can be downloaded and installed in your local environment. Follow the instructions at the [TEAM Engine repository](https://github.com/opengeospatial/teamengine)
+TEAM Engine can be downloaded and installed in your local environment. Follow the instructions at the [TEAM Engine repository](https://github.com/opengeospatial/teamengine).
 
 Replicating OGC Environment
 ==============================
 
-The TEAM Engine instructions reuired the setting up of TE_BASE where scripst and a main configuration file are required. Here is what is installed at the OGC web site.
+The TEAM Engine instructions requiresetting up of TE_BASE where scripts and a main configuration file are required. Here is what is currently installed at the OGC web site.
 
 - Production
   - Scripts [zip file 8-10 mb](http://cite.opengeospatial.org/teamengine/casd/scripts.zip)
@@ -22,7 +22,7 @@ The TEAM Engine instructions reuired the setting up of TE_BASE where scripst and
   - Config file [xml file] (http://cite.opengeospatial.org/te2/casd/config.xml)  
 
 
-
+**Note that the config.xml is the one that filters and tells TEAM Engine about the test suites that will be available in the web application**
 
 
 
