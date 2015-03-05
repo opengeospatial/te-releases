@@ -1,0 +1,30 @@
+Repository,Tag
+https://github.com/opengeospatial/ets-csw202.git,r10
+https://github.com/opengeospatial/ets-cat30.git, 0.2
+https://github.com/opengeospatial/ets-gml32.git,3.2.1-r18
+https://github.com/opengeospatial/ets-kml22.git,2.2-r11
+owc10
+sml10
+sos10 test r14
+sos20 test r1.9
+https://github.com/opengeospatial/ets-sps10.git,1.6
+https://github.com/opengeospatial/ets-sps20.git,1.9
+http://opengeospatial.github.io/ets-sfs11.git,1.5
+http://opengeospatial.github.io/ets-sfs12.git,1.4
+https://github.com/opengeospatial/ets-wcs10.git,1.10
+https://github.com/opengeospatial/ets-wcs11.git,1.4
+https://github.com/opengeospatial/ets-wcs20.git,r6
+
+
+https://github.com/opengeospatial/ets-gml32.git,3.2.1-r18
+https://github.com/opengeospatial/ets-wfs20.git,2.0-r18
+https://github.com/opengeospatial/ets-wfs11.git,r21
+https://github.com/opengeospatial/ets-wfs10.git,r7
+https://github.com/opengeospatial/ets-wms13.git,r10
+https://github.com/opengeospatial/ets-wms11.git,r7
+https://github.com/opengeospatial/ets-wcs20.git,r6
+https://github.com/opengeospatial/ets-wcs10.git,r9
+https://github.com/opengeospatial/ets-wmts10.git,r4
+https://github.com/opengeospatial/ets-cat30.git,1
+https://github.com/opengeospatial/ets-csw202.git,r10
+https://github.com/opengeospatial/ets-sfs11.git,1.4
