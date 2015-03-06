@@ -13,7 +13,10 @@ http://opengeospatial.github.io/ets-sfs11.git,1.5
 http://opengeospatial.github.io/ets-sfs12.git,1.4
 https://github.com/opengeospatial/ets-wcs10.git,1.10
 https://github.com/opengeospatial/ets-wcs11.git,1.4
-https://github.com/opengeospatial/ets-wcs20.git,r6
+https://github.com/opengeospatial/ets-wcs20.git,1.7
+https://github.com/opengeospatial/ets-wfs10.git,1.8
+https://github.com/opengeospatial/ets-wfs11.git,
+https://github.com/opengeospatial/ets-gml32.git,1.19
 
 
 https://github.com/opengeospatial/ets-gml32.git,3.2.1-r18
