@@ -3,7 +3,7 @@ TEAM ENGINE Releases
 
 This repository tracks the releases at the OGC TEAM Engine [production](http://cite.opengeospatial.org/teamengine)  and [beta](http://cite.opengeospatial.org/te2) websites.
 
-An issue is created every time there is a change in the test and it is deploy in th OGC validator web sites.
+An issue is created every time there is a change in the test and it is to be deployed in the OGC validator web sites.
 
 More Information
 =================
