@@ -11,6 +11,8 @@ More Information
 - TEAM Engine can be downloaded and installed in your local environment. Follow the instructions at the [TEAM Engine repository](https://github.com/opengeospatial/teamengine).
 
 - CSV files with releases in beta and production are available in https://github.com/opengeospatial/teamengine-builder
+    - [beta releases](https://github.com/opengeospatial/teamengine-builder/tree/master/beta-releases)
+    - [production releases](https://github.com/opengeospatial/teamengine-builder/tree/master/production-releases)
 
 
 
