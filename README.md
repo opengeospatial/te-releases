@@ -8,8 +8,9 @@ An issue is created every time there is a change in a test that needs to be depl
 TEAM Engine can be downloaded and installed in your local environment. Follow the instructions at the [TEAM Engine repository](https://github.com/opengeospatial/teamengine).
 
 CSV files that contain all the information about test releases in beta and production are available in https://github.com/opengeospatial/teamengine-builder
-    - [beta releases](https://github.com/opengeospatial/teamengine-builder/tree/master/beta-releases)
-    - [production releases](https://github.com/opengeospatial/teamengine-builder/tree/master/production-releases)
+
+- [beta releases](https://github.com/opengeospatial/teamengine-builder/tree/master/beta-releases)
+- [production releases](https://github.com/opengeospatial/teamengine-builder/tree/master/production-releases)
 
 
 
